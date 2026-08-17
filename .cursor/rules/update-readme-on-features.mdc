@@ -1,0 +1,13 @@
+---
+description: Keep README.md user-guide sections current whenever a feature is added or changed
+alwaysApply: true
+---
+
+# Update README when features change
+
+When you add, change, or remove a user-facing feature, update `README.md` in the same change.
+
+- Add or revise a subsection under **Using the application** with step-by-step usage (routes, UI labels, required fields, and important constraints).
+- Keep the app overview accurate if the product scope changed.
+- Document only features users can actually use; do not describe unfinished pages or schema-only models.
+- Match the existing README tone: concise, instructional, no implementation details.
